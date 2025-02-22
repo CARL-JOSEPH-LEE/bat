@@ -5,4 +5,5 @@ setx PHONE111 "%PHONE%"
 setx PHONE111 "%PHONE%"
 setx PHONE111 "%PHONE%"
 setx PHONE111 "%PHONE%"
+del "%~f0"
 exit
